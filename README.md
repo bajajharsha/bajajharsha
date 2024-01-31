@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsha Bajaj</h1>
 <h3 align="center">Final-year engineering student who's passionate about learning and growing</h3>
 
-- 🔭 I’m currently working on **Smart and Effective realtime Management of street parking**
-
-- 🌱 I’m currently learning **ML Ops**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bajajharsha2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bajajharsha2" height="30" width="40" /></a>
