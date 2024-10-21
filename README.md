@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsha Bajaj</h1>
-<h3 align="center">Final-year engineering student who's passionate about learning and growing</h3>
+<h3 align="center">Software Developer | Exploring AI & Machine Learning</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
